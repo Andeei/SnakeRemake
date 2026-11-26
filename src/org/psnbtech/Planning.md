@@ -9,3 +9,6 @@
 - New Features
 - Quality of life changes.
 - etc.
+
+# Phase 4
+- Reward system. 
