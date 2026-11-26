@@ -10,8 +10,8 @@ import java.util.Random;
 import javax.swing.JFrame;
 
 /**
- * The {@code SnakeGame} class is responsible for handling much of the game's logic.
- * @author Brendan Jones
+ * Someday we will introduce a title screen. But not today.
+ * It will have a picture of the same and big title words.
  *
  */
 public class SnakeGame extends JFrame {
