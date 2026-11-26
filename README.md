@@ -1,3 +1,3 @@
 # Readme
 
-This was for an assignment where we practice various git commands. 
+This was for an assignment where we practiced various git commands. 
